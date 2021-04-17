@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephRHopkins88)](https://github.com/JosephRHopkins88/github-readme-stats)
 
-https://github.com/JosephRHopkins88/github-readme-stats/blob/master/readme.md#github-stats-card
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephRHopkins88)](https://github.com/JosephRHopkins88/github-readme-stats)
