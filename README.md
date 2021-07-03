@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joseph Hopkins
+- 👋 Hi, I’m Joseph R. Hopkins
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Full Stack at Codeup and graduate in September of 2021
 - 📫 How to reach me josephrhopkins88@gmail.com 
