@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Full Stack at Codeup and graduate in September of 2021
 - 📫 How to reach me email me @ josephrhopkins88@gmail.com 
-- Checkout my linked at linkedin.com/in/joseph-r-hopkins
+- Checkout my linkedin profile at linkedin.com/in/joseph-r-hopkins
 
 <!---
 JosephRHopkins88/JosephRHopkins88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
